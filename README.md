@@ -94,7 +94,7 @@ func main() {
 
 }
 ```
-## 4. Dockerize HTTP Server
+## 3. Dockerize HTTP Server
 
 1. Create go.mod File:
   Open your terminal, navigate to the project directory, and run the following command to create the go.mod file:
@@ -145,7 +145,7 @@ func main() {
   docker push harshasiddagangaiah/http-server
   ```
 
-## 6. Setup and Run container on Kubernetes cluster:
+## 4. Setup and Run container on Kubernetes cluster:
 
 Go to the play with kubernetes website (https://labs.play-with-k8s.com/) and login through GitHub.
 
